@@ -1,0 +1,14 @@
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/bin/Debug/net10.0/activity
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/bin/Debug/net10.0/activity.deps.json
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/bin/Debug/net10.0/activity.runtimeconfig.json
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/bin/Debug/net10.0/activity.dll
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/bin/Debug/net10.0/activity.pdb
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.AssemblyInfoInputs.cache
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.AssemblyInfo.cs
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.csproj.CoreCompileInputs.cache
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.dll
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/refint/activity.dll
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.pdb
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/activity.genruntimeconfig.cache
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK6/DAY_1/Conditionals_Activity/activity/obj/Debug/net10.0/ref/activity.dll
